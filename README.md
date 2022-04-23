@@ -36,6 +36,7 @@ user login using Html & Css
             p{
                 margin-left: 20px;
                 font-size: 19px;
+                color: white;
             }
             button{
                 font-size: 20px;
