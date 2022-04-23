@@ -1,5 +1,5 @@
 # login.html
-user login using Html &amp; Css
+user login using Html & Css
 
 <!DOCTYPE html>
 <html>
